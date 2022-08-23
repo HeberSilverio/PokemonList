@@ -2,13 +2,13 @@
 
 O  objetivo deste projeto é criar uma lista de pokémons em ordem crescente. Cada item da lista deve conter imagem, número, nome e tipo.
 
-<a target="_blank" rel="noopener noreferrer" href="https:ListaPokemonGif.gif">
-    <img src="https://github.com/HeberSilverio/ListaPokemonGif.gif" alt="ListaPokemon" style="max-width: 40%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/PokemonList/blob/main/src/assets/GifPokemonList.gif">
+    <img src="https://github.com/HeberSilverio/PokemonList/blob/main/src/assets/GifPokemonList.gif" alt="ListaPokemon" style="max-width: 40%;">
 </a> </br>
 
 ## ⌨️ Como executar o projeto
 ``` Clonando o repositório
-git clone https://github.com/HeberSilverio/Aplica-o-React.git
+git clone https://github.com/HeberSilverio/PokemonList.git
 
 ```
 
@@ -31,8 +31,6 @@ Instale dependências. No diretório do projeto, você pode executar:
 ### 🛠️ Tecnologias utilizadas
 * <a href="https://pt-br.reactjs.org/" rel="nofollow">ReactJs</a>
 * <a href="https://nodejs.org/en/" rel="nofollow">NodeJs</a>
-* <a href="https://gulpjs.com/" rel="nofollow">Gulp.js</a>
-* <a href="https://sass-lang.com/" rel="nofollow">Sass</a>
 
 ## Como foi utilizadas estas tecnologias neste projeto
 
@@ -46,33 +44,6 @@ Você encontra informações para utilizar este recurso nesta url:
 Ou neste repositório
 
 Repositório GitHub: [facebook/create-react-app](https://github.com/facebook/create-react-app)
-
-### O Gulp neste projeto está sendo usado com plugins
-
-- [gulp-sass](https://www.npmjs.com/package/gulp-sass)
-- [gulp-dart-sass](https://www.npmjs.com/package/gulp-sass)
-
-*Crie um arquivo package.json no diretório do projeto*
-
-`npm init`
-
-*Instale o pacote gulp como dependências de desenvolvimento em seu devDependencies*
-
-`npm install --save-dev gulp`
-
-*É recomendado como dependências de desenvolvimento em seu devDependencies*
-
-`npm install sass gulp-sass --save-dev`
-`npm install gulp-dart-sass --save-dev`
-
-Caso necessário consulte a documentação do <a href="https://gulpjs.com/" rel="nofollow">Gulp.js</a>
-
-### Neste caso deste projeto utilizando o Node.js, podemos instalar o Sass usando npm executando
-
-`npm install -g sass`
-
-Caso necessário consulte a documentação do <a href="https://gulpjs.com/" rel="nofollow">Gulp.js</a>
-
 
 
 ## Autor
